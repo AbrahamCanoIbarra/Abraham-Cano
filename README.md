@@ -14,6 +14,3 @@ Me especializo en transformar datos crudos en historias visuales que facilitan l
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📊 Mis Estadísticas
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamCanoIbarra&layout=compact&theme=dracula)

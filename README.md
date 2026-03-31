@@ -16,4 +16,4 @@ Me especializo en transformar datos crudos en historias visuales que facilitan l
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AbrahamCanoIbarra&show_icons=true&theme=dracula&cache_seconds=1800)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamCanoIbarra&layout=compact&theme=dracula)

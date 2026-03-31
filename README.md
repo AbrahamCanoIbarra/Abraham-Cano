@@ -6,8 +6,9 @@ Me especializo en transformar datos crudos en historias visuales que facilitan l
 - 🔭 Actualmente trabajando en: Proyectos de análisis con Python, SQL, Excel y Power Bi.
 - 🌱 Aprendiendo: Machine Learning básico y visualización avanzada en Power BI.
 - 💬 Pregúntame sobre: Python, Pandas, SQL y cómo interpretar gráficos.
-- 📫 Contacto: abraham.data.consult@gmail.com
-
+- 📧 **Correo:** [abraham.data.consult@gmail.com](mailto:abraham.data.consult@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/abraham-cano-ibarra](https://www.linkedin.com/in/abraham-cano-ibarra)
+- 
 ### 🛠 Mi Stack de Datos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)

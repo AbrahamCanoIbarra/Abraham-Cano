@@ -8,7 +8,7 @@ Me especializo en transformar datos crudos en historias visuales que facilitan l
 - 💬 Pregúntame sobre: Python, Pandas, SQL y cómo interpretar gráficos.
 - 📧 **Correo:** [abraham.data.consult@gmail.com](mailto:abraham.data.consult@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/abraham-cano-ibarra](https://www.linkedin.com/in/abraham-cano-ibarra)
-- 
+
 ### 🛠 Mi Stack de Datos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
